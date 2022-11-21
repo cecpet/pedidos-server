@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "axios": "^0.27.2",
+    "express": "^4.18.2"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "server",
+  "version": "1.0.0",
+  "main": "server.js",
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "proxy": "http://127.0.0.1:5173/"
+}
